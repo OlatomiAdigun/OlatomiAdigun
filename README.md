@@ -8,7 +8,7 @@ I am a Data Scientist with robust experience in the Oil and Gas field. Good team
 - 💬 Ask me about football/ Wireline(Oil/Gas Industry)/Python; Sure won't shut up
 - 📫 How to reach me: Twitter -@towmee2000
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am tall and can't play basketball
+- ⚡ Fun fact: I am tall and can't play basketball.
 
 
 
