@@ -1,19 +1,17 @@
 ### Hi!!! I am Olatomi Adigun
 
-I am a Data Scientist with robust experience in the Oil and Gas field. Good team player with strong interpersonal skills.
+A Data Analyst with a passion for transforming complex datasets into actionable insights that drive strategic decision-making. Expertise spans data analysis, predictive modeling, statistics, and machine learning, supported by strong programming skills in Python, SQL, and AWS. Recently earned a Master’s in Data Science & Analytics from the University of Calgary, with valuable industry experience from the Oil and Gas sector.
 
-Skills:
-Software/Programming Expertise: Python (NumPy, Pandas, Scikit-learn), SQL, Power BI, Tableau and Excel
-Frameworks: TensorFlow, PyTorch, Keras, Flask, Plotly Dash, Matplotlib, Heroku
-Skills: Data analysis, Linear and Multivariate Regressions, Predictive Modelling, K-Cluster Analysis, Machine Learning, Deep Learning
+Before transitioning into data science, began a career as a Wireline Engineer, collecting and analyzing critical data from oilfields to support multi-billion-dollar decisions. A fascination with data and problem-solving led to a deeper focus on data analytics, with skills applied in roles at TOSSA Research and Kelanth Energy Services.
 
-- 🔭 I’m currently working on completing my Data Science program at Bloomtech.
-- 🌱 I’m currently learning Deep Learning
+In these positions and through my academic journey, I have leveraged tools like SQL, Power BI, Python, Tableau, Docker, AWS, NoSQL, Git, GitHub, and Heroku to process and analyze large datasets, generate insights, and present data in ways that inform key business decisions.
+
+- 🔭 I’m currently working as Data Engineer
 - 👯 I’m looking to collaborate on Zoom 
-- 💬 Ask me about football/ Wireline(Oil/Gas Industry)/Python; Sure won't shut up
+- 💬 Ask me about Data Engineering/ Analysis/Science/football/ Wireline(Oil/Gas Industry)
 - 📫 How to reach me: Twitter -@towmee2000
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am tall and can't play basketball.
+- ⚡ Fun fact: I love solving puzzles, whether it's data-related or a good crossword on the weekend.
 
 
 
